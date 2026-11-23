@@ -1,0 +1,4 @@
+record_id,case_id,source_page,entity,entity_type,sequence,year,metric_name,value,unit,evidence_status,source_xref
+CASE-P29-2-01,CASE-P29-2,29,AGLC TODAY,visual_theme_or_component,1,,,,,visual_semantic_identification,197
+CASE-P29-2-02,CASE-P29-2,29,OUR PRIORITIES,visual_theme_or_component,2,,,,,visual_semantic_identification,197
+CASE-P29-2-03,CASE-P29-2,29,OUR FUTURE,visual_theme_or_component,3,,,,,visual_semantic_identification,197

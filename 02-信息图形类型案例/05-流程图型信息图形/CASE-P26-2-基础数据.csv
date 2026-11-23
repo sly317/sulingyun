@@ -1,0 +1,5 @@
+record_id,case_id,source_page,entity,entity_type,sequence,year,metric_name,value,unit,evidence_status,source_xref
+CASE-P26-2-01,CASE-P26-2,26,路径,visual_theme_or_component,1,,,,,visual_semantic_identification,173
+CASE-P26-2-02,CASE-P26-2,26,城市,visual_theme_or_component,2,,,,,visual_semantic_identification,173
+CASE-P26-2-03,CASE-P26-2,26,建筑,visual_theme_or_component,3,,,,,visual_semantic_identification,173
+CASE-P26-2-04,CASE-P26-2,26,阶段,visual_theme_or_component,4,,,,,visual_semantic_identification,173

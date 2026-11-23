@@ -1,0 +1,5 @@
+record_id,case_id,source_page,entity,entity_type,sequence,year,metric_name,value,unit,evidence_status,source_xref
+CASE-P22-1-01,CASE-P22-1,22,环境管理,visual_theme_or_component,1,,,,,visual_semantic_identification,145
+CASE-P22-1-02,CASE-P22-1,22,交通,visual_theme_or_component,2,,,,,visual_semantic_identification,145
+CASE-P22-1-03,CASE-P22-1,22,客户满意度,visual_theme_or_component,3,,,,,visual_semantic_identification,145
+CASE-P22-1-04,CASE-P22-1,22,工作场所,visual_theme_or_component,4,,,,,visual_semantic_identification,145

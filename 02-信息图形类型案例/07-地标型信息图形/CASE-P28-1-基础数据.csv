@@ -1,0 +1,6 @@
+record_id,case_id,source_page,entity,entity_type,sequence,year,metric_name,value,unit,evidence_status,source_xref
+CASE-P28-1-01,CASE-P28-1,28,Brasil,visual_theme_or_component,1,,,,,visual_semantic_identification,189
+CASE-P28-1-02,CASE-P28-1,28,EUA,visual_theme_or_component,2,,,,,visual_semantic_identification,189
+CASE-P28-1-03,CASE-P28-1,28,地图,visual_theme_or_component,3,,,,,visual_semantic_identification,189
+CASE-P28-1-04,CASE-P28-1,28,交通,visual_theme_or_component,4,,,,,visual_semantic_identification,189
+CASE-P28-1-05,CASE-P28-1,28,地标,visual_theme_or_component,5,,,,,visual_semantic_identification,189

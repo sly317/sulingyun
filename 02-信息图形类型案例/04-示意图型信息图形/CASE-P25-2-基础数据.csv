@@ -1,0 +1,6 @@
+record_id,case_id,source_page,entity,entity_type,sequence,year,metric_name,value,unit,evidence_status,source_xref
+CASE-P25-2-01,CASE-P25-2,25,米饭,visual_theme_or_component,1,,,,,visual_semantic_identification,165
+CASE-P25-2-02,CASE-P25-2,25,蛋,visual_theme_or_component,2,,,,,visual_semantic_identification,165
+CASE-P25-2-03,CASE-P25-2,25,蔬菜,visual_theme_or_component,3,,,,,visual_semantic_identification,165
+CASE-P25-2-04,CASE-P25-2,25,碗,visual_theme_or_component,4,,,,,visual_semantic_identification,165
+CASE-P25-2-05,CASE-P25-2,25,调料,visual_theme_or_component,5,,,,,visual_semantic_identification,165

@@ -1,0 +1,5 @@
+record_id,case_id,source_page,entity,entity_type,sequence,year,metric_name,value,unit,evidence_status,source_xref
+CASE-P27-2-01,CASE-P27-2,27,候选人A,visual_theme_or_component,1,,,,,visual_semantic_identification,181
+CASE-P27-2-02,CASE-P27-2,27,候选人B,visual_theme_or_component,2,,,,,visual_semantic_identification,181
+CASE-P27-2-03,CASE-P27-2,27,民意指标,visual_theme_or_component,3,,,,,visual_semantic_identification,181
+CASE-P27-2-04,CASE-P27-2,27,竞选议题,visual_theme_or_component,4,,,,,visual_semantic_identification,181

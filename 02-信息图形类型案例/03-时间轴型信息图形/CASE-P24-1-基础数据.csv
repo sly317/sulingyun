@@ -1,0 +1,15 @@
+record_id,case_id,source_page,entity,entity_type,sequence,year,metric_name,value,unit,evidence_status,source_xref
+CASE-P24-1-01,CASE-P24-1,24,Bauhaus,visual_theme_or_component,1,,,,,visual_semantic_identification,160
+CASE-P24-1-02,CASE-P24-1,24,人物肖像,visual_theme_or_component,2,,,,,visual_semantic_identification,160
+CASE-P24-1-03,CASE-P24-1,24,建筑,visual_theme_or_component,3,,,,,visual_semantic_identification,160
+CASE-P24-1-04,CASE-P24-1,24,时间节点,visual_theme_or_component,4,,,,,visual_semantic_identification,160
+CASE-P24-1-Y1910,CASE-P24-1,24,year_marker,temporal_marker,,1910,,,,year_visible_event_unmatched,160
+CASE-P24-1-Y1920,CASE-P24-1,24,year_marker,temporal_marker,,1920,,,,year_visible_event_unmatched,160
+CASE-P24-1-Y1925,CASE-P24-1,24,year_marker,temporal_marker,,1925,,,,year_visible_event_unmatched,160
+CASE-P24-1-Y1926,CASE-P24-1,24,year_marker,temporal_marker,,1926,,,,year_visible_event_unmatched,160
+CASE-P24-1-Y1928,CASE-P24-1,24,year_marker,temporal_marker,,1928,,,,year_visible_event_unmatched,160
+CASE-P24-1-Y1936,CASE-P24-1,24,year_marker,temporal_marker,,1936,,,,year_visible_event_unmatched,160
+CASE-P24-1-Y1937,CASE-P24-1,24,year_marker,temporal_marker,,1937,,,,year_visible_event_unmatched,160
+CASE-P24-1-Y1958,CASE-P24-1,24,year_marker,temporal_marker,,1958,,,,year_visible_event_unmatched,160
+CASE-P24-1-Y1959,CASE-P24-1,24,year_marker,temporal_marker,,1959,,,,year_visible_event_unmatched,160
+CASE-P24-1-Y1963,CASE-P24-1,24,year_marker,temporal_marker,,1963,,,,year_visible_event_unmatched,160

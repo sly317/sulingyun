@@ -1,0 +1,5 @@
+record_id,case_id,source_page,entity,entity_type,sequence,year,metric_name,value,unit,evidence_status,source_xref
+CASE-P23-1-01,CASE-P23-1,23,The Beatles,visual_theme_or_component,1,,,,,visual_semantic_identification,157
+CASE-P23-1-02,CASE-P23-1,23,人物肖像,visual_theme_or_component,2,,,,,visual_semantic_identification,157
+CASE-P23-1-03,CASE-P23-1,23,统计模块,visual_theme_or_component,3,,,,,visual_semantic_identification,157
+CASE-P23-1-04,CASE-P23-1,23,底部列表,visual_theme_or_component,4,,,,,visual_semantic_identification,157

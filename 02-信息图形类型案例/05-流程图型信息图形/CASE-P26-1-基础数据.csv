@@ -1,0 +1,6 @@
+record_id,case_id,source_page,entity,entity_type,sequence,year,metric_name,value,unit,evidence_status,source_xref
+CASE-P26-1-01,CASE-P26-1,26,创意,visual_theme_or_component,1,,,,,visual_semantic_identification,176
+CASE-P26-1-02,CASE-P26-1,26,研究,visual_theme_or_component,2,,,,,visual_semantic_identification,176
+CASE-P26-1-03,CASE-P26-1,26,构思,visual_theme_or_component,3,,,,,visual_semantic_identification,176
+CASE-P26-1-04,CASE-P26-1,26,制作,visual_theme_or_component,4,,,,,visual_semantic_identification,176
+CASE-P26-1-05,CASE-P26-1,26,评估,visual_theme_or_component,5,,,,,visual_semantic_identification,176
