@@ -3,3 +3,18 @@ CASE-P22-1-01,CASE-P22-1,22,环境管理,visual_theme_or_component,1,,,,,visual_
 CASE-P22-1-02,CASE-P22-1,22,交通,visual_theme_or_component,2,,,,,visual_semantic_identification,145
 CASE-P22-1-03,CASE-P22-1,22,客户满意度,visual_theme_or_component,3,,,,,visual_semantic_identification,145
 CASE-P22-1-04,CASE-P22-1,22,工作场所,visual_theme_or_component,4,,,,,visual_semantic_identification,145
+CASE-P22-1-N001,CASE-P22-1,22,Client satisfaction,quantitative_observation,,,delivered_on_agreed_schedule,97,%,numeric_label_transcribed_from_pdf,145
+CASE-P22-1-N002,CASE-P22-1,22,Client satisfaction,quantitative_observation,,,delivered_within_agreed_budget,97,%,numeric_label_transcribed_from_pdf,145
+CASE-P22-1-N003,CASE-P22-1,22,Client satisfaction,quantitative_observation,,,services_meet_needs_of_project,97,%,numeric_label_transcribed_from_pdf,145
+CASE-P22-1-N004,CASE-P22-1,22,Client satisfaction,quantitative_observation,,,satisfied_with_finished_product,99,%,numeric_label_transcribed_from_pdf,145
+CASE-P22-1-N005,CASE-P22-1,22,Client satisfaction,quantitative_observation,,,delivered_value_added_service,99,%,numeric_label_transcribed_from_pdf,145
+CASE-P22-1-N006,CASE-P22-1,22,Workplace,quantitative_observation,,,employee_engagement_score,65,%,numeric_label_transcribed_from_pdf,145
+CASE-P22-1-N007,CASE-P22-1,22,Workplace,quantitative_observation,,2010,total_number_of_employees,207,persons,numeric_label_transcribed_from_pdf,145
+CASE-P22-1-N008,CASE-P22-1,22,Workplace,quantitative_observation,,2011,total_number_of_employees,258,persons,numeric_label_transcribed_from_pdf,145
+CASE-P22-1-N009,CASE-P22-1,22,Workplace,quantitative_observation,,,LEED_green_associates_and_LEED_accredited_professionals,156,persons,numeric_label_transcribed_from_pdf,145
+CASE-P22-1-N010,CASE-P22-1,22,Transportation,quantitative_observation,,,drive_alone,68,%,numeric_label_transcribed_from_pdf,145
+CASE-P22-1-N011,CASE-P22-1,22,Transportation,quantitative_observation,,,commuting_distance_0_to_5,21,%,numeric_label_transcribed_from_pdf,145
+CASE-P22-1-N012,CASE-P22-1,22,Transportation,quantitative_observation,,,commuting_distance_5_to_10,20,%,numeric_label_transcribed_from_pdf,145
+CASE-P22-1-N013,CASE-P22-1,22,Transportation,quantitative_observation,,,commuting_distance_10_to_15,19,%,numeric_label_transcribed_from_pdf,145
+CASE-P22-1-N014,CASE-P22-1,22,Transportation,quantitative_observation,,,commuting_distance_15_to_20,10,%,numeric_label_transcribed_from_pdf,145
+CASE-P22-1-N015,CASE-P22-1,22,Transportation,quantitative_observation,,,commuting_distance_over_20,30,%,numeric_label_transcribed_from_pdf,145

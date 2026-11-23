@@ -3,3 +3,13 @@ CASE-P27-1-01,CASE-P27-1,27,Messi,visual_theme_or_component,1,,,,,visual_semanti
 CASE-P27-1-02,CASE-P27-1,27,Cristiano Ronaldo,visual_theme_or_component,2,,,,,visual_semantic_identification,184
 CASE-P27-1-03,CASE-P27-1,27,技术指标,visual_theme_or_component,3,,,,,visual_semantic_identification,184
 CASE-P27-1-04,CASE-P27-1,27,财务指标,visual_theme_or_component,4,,,,,visual_semantic_identification,184
+CASE-P27-1-N001,CASE-P27-1,27,Lionel Messi,quantitative_observation,,2009,age_at_publication,21,years,numeric_label_transcribed_from_pdf,184
+CASE-P27-1-N002,CASE-P27-1,27,Cristiano Ronaldo,quantitative_observation,,2009,age_at_publication,24,years,numeric_label_transcribed_from_pdf,184
+CASE-P27-1-N003,CASE-P27-1,27,Lionel Messi,quantitative_observation,,,height,1.69,m,numeric_label_transcribed_from_pdf,184
+CASE-P27-1-N004,CASE-P27-1,27,Cristiano Ronaldo,quantitative_observation,,,height,1.85,m,numeric_label_transcribed_from_pdf,184
+CASE-P27-1-N005,CASE-P27-1,27,Lionel Messi,quantitative_observation,,,weight,63,kg,numeric_label_transcribed_from_pdf,184
+CASE-P27-1-N006,CASE-P27-1,27,Cristiano Ronaldo,quantitative_observation,,,weight,78,kg,numeric_label_transcribed_from_pdf,184
+CASE-P27-1-N007,CASE-P27-1,27,Lionel Messi,quantitative_observation,,,salary_per_month,700,thousand_EUR,numeric_label_transcribed_from_pdf,184
+CASE-P27-1-N008,CASE-P27-1,27,Cristiano Ronaldo,quantitative_observation,,,salary_per_month,563,thousand_EUR,numeric_label_transcribed_from_pdf,184
+CASE-P27-1-N009,CASE-P27-1,27,Lionel Messi,quantitative_observation,,,prizes_and_advertising_per_year,28.6,million_EUR,numeric_label_transcribed_from_pdf,184
+CASE-P27-1-N010,CASE-P27-1,27,Cristiano Ronaldo,quantitative_observation,,,prizes_and_advertising_per_year,18.3,million_EUR,numeric_label_transcribed_from_pdf,184

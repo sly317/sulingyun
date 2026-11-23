@@ -1,5 +1,5 @@
 case_id,category_folder,title,logic,page,side,xref,image,image_bytes,image_sha256,dataset_rows
-CASE-P22-1,01-混合型信息图形,多指标环境与职场仪表板,编目型,22,main,145,CASE-P22-1-原图.jpg,32737,69430da94ee93ba5017a14ce7a12e65f8a402a0ea0a999afaa515ce4a4057cac,4
+CASE-P22-1,01-混合型信息图形,多指标环境与职场仪表板,编目型,22,main,145,CASE-P22-1-原图.jpg,32737,69430da94ee93ba5017a14ce7a12e65f8a402a0ea0a999afaa515ce4a4057cac,19
 CASE-P23-1,02-文字型-列表型信息图形,披头士人物资料列表,编目型,23,left,157,CASE-P23-1-原图.jpg,129305,e9a1a4090d8af819fea5203c9a6b549188d882cfc34c8234a76ae6560476627e,4
 CASE-P23-2,02-文字型-列表型信息图形,报纸式文字与蜿蜒视觉路径,编目型,23,right,154,CASE-P23-2-原图.jpg,88683,7a071a2a8f819c179df78f20c087c83f590517ebe4ca5f65559365eb94306683,4
 CASE-P24-1,03-时间轴型信息图形,包豪斯人物建筑时间轴,编年型,24,main,160,CASE-P24-1-原图.jpg,108573,558e6bea56251a10edf7dba555168a247a2068f6f55f66cee8f38b42710a4a7e,14
@@ -7,11 +7,11 @@ CASE-P25-1,04-示意图型信息图形,牛肉奶酪三明治分解装配图,层�
 CASE-P25-2,04-示意图型信息图形,拌饭食材分层制作图,层级型,25,right,165,CASE-P25-2-原图.jpg,119978,a0b948364a3d0310741ae6a1a8006cb990538555277565334d0707b890888cd8,5
 CASE-P26-1,05-流程图型信息图形,创意过程蓝图式流程图,编年型,26,left,176,CASE-P26-1-原图.jpg,274479,1bc8187bf4a40728a4d9a17f3ed155dc0bf7dc84af9be40d2e3a19085bd5077d,5
 CASE-P26-2,05-流程图型信息图形,城市化轴测流程路径图,编年型,26,right,173,CASE-P26-2-原图.jpg,34675,8aa9ee6c9305c26e16d20694955fb67af8aa8375b678ba46bb66a0b472c92c3c,4
-CASE-P27-1,06-比较型信息图形,梅西与C罗对比图,编目型,27,left,184,CASE-P27-1-原图.jpg,135705,45a90624622ea6a690880595691cf8c6efa2ad0920309cebfb8bd63fb1dcce0d,4
-CASE-P27-2,06-比较型信息图形,候选人竞选数据比较图,编目型,27,right,181,CASE-P27-2-原图.jpg,134675,fc211e0123d6dbc2ee7fd79d447d9960b2ef572b3bad0335e15b9b4680b3736c,4
+CASE-P27-1,06-比较型信息图形,梅西与C罗对比图,编目型,27,left,184,CASE-P27-1-原图.jpg,135705,45a90624622ea6a690880595691cf8c6efa2ad0920309cebfb8bd63fb1dcce0d,14
+CASE-P27-2,06-比较型信息图形,候选人竞选数据比较图,编目型,27,right,181,CASE-P27-2-原图.jpg,134675,fc211e0123d6dbc2ee7fd79d447d9960b2ef572b3bad0335e15b9b4680b3736c,10
 CASE-P28-1,07-地标型信息图形,巴西与美国交通主题地标海报,地理图型,28,left,189,CASE-P28-1-原图.jpg,269242,b51d6437a8a14a7cf084f6b59c5b1f0639c14723bf6efcbc54920345e23983ff,5
 CASE-P28-2,07-地标型信息图形,纽约地铁拓扑线路图,地理图型,28,right,192,CASE-P28-2-原图.jpg,80021,4f56084732bfaca3d38ae84e65579fefef7dd1bc8685c815be933b1970b6c33f,5
-CASE-P29-1,08-图片式信息图形,老龄人口摄影叠加统计图,编目型,29,left,200,CASE-P29-1-原图.jpg,74209,f8e4d83d6fce4b3883993a8735eda397f6c9f20a0615f857f16f35c98e6d984f,4
+CASE-P29-1,08-图片式信息图形,老龄人口摄影叠加统计图,编目型,29,left,200,CASE-P29-1-原图.jpg,74209,f8e4d83d6fce4b3883993a8735eda397f6c9f20a0615f857f16f35c98e6d984f,38
 CASE-P29-2,08-图片式信息图形,AGLC摄影信息图,编目型,29,right,197,CASE-P29-2-原图.jpg,274779,fae978c78ffc1a3ad0eb08e68a33186344da3e554bc05b0bf5cf7630f96d4c7f,3
 CASE-P30-1,09-层级型信息图形,芬兰熊类地理分布海报,地理图型,30,left,208,CASE-P30-1-原图.jpg,130906,3faea3c50c2c190974462abb6a1a1c00e54e9904c18b152f60262dc952635298,4
 CASE-P30-2,09-层级型信息图形,LOVE主题螺旋叙事图,编年型,30,right,205,CASE-P30-2-原图.jpg,93912,0dff57218fc27913864c8b9062e98828d52e58a8467aa4c0d2c1c9d397ca9bfe,4
