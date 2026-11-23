@@ -3,9 +3,9 @@ CASE-P27-2-01,CASE-P27-2,27,候选人A,visual_theme_or_component,1,,,,,visual_se
 CASE-P27-2-02,CASE-P27-2,27,候选人B,visual_theme_or_component,2,,,,,visual_semantic_identification,181
 CASE-P27-2-03,CASE-P27-2,27,民意指标,visual_theme_or_component,3,,,,,visual_semantic_identification,181
 CASE-P27-2-04,CASE-P27-2,27,竞选议题,visual_theme_or_component,4,,,,,visual_semantic_identification,181
-CASE-P27-2-N001,CASE-P27-2,27,Spain 1975,quantitative_observation,,1975,education_rate,83,%,numeric_label_transcribed_from_pdf,181
-CASE-P27-2-N002,CASE-P27-2,27,Spain 2014,quantitative_observation,,2014,education_rate,100,%,numeric_label_transcribed_from_pdf,181
-CASE-P27-2-N003,CASE-P27-2,27,Spain 1975,quantitative_observation,,1975,female_employment_rate,28,%,numeric_label_transcribed_from_pdf,181
-CASE-P27-2-N004,CASE-P27-2,27,Spain 2014,quantitative_observation,,2014,female_employment_rate,53,%,numeric_label_transcribed_from_pdf,181
-CASE-P27-2-N005,CASE-P27-2,27,Spain 1975,quantitative_observation,,1975,rural_population_share,26,%,numeric_label_transcribed_from_pdf,181
-CASE-P27-2-N006,CASE-P27-2,27,Spain 2014,quantitative_observation,,2014,rural_population_share,22,%,numeric_label_transcribed_from_pdf,181
+CASE-P27-2-N001,CASE-P27-2,27,Spain,quantitative_observation,,1975,education_rate,83,%,numeric_label_transcribed_from_pdf,181
+CASE-P27-2-N002,CASE-P27-2,27,Spain,quantitative_observation,,2014,education_rate,100,%,numeric_label_transcribed_from_pdf,181
+CASE-P27-2-N003,CASE-P27-2,27,Spain,quantitative_observation,,1975,female_employment_rate,28,%,numeric_label_transcribed_from_pdf,181
+CASE-P27-2-N004,CASE-P27-2,27,Spain,quantitative_observation,,2014,female_employment_rate,53,%,numeric_label_transcribed_from_pdf,181
+CASE-P27-2-N005,CASE-P27-2,27,Spain,quantitative_observation,,1975,rural_population_share,26,%,numeric_label_transcribed_from_pdf,181
+CASE-P27-2-N006,CASE-P27-2,27,Spain,quantitative_observation,,2014,rural_population_share,22,%,numeric_label_transcribed_from_pdf,181
