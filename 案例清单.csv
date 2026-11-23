@@ -1,0 +1,32 @@
+case_id,category_folder,title,logic,page,side,xref,image,image_bytes,image_sha256,dataset_rows
+CASE-P22-1,01-混合型信息图形,多指标环境与职场仪表板,编目型,22,main,145,CASE-P22-1-原图.jpg,32737,69430da94ee93ba5017a14ce7a12e65f8a402a0ea0a999afaa515ce4a4057cac,4
+CASE-P23-1,02-文字型-列表型信息图形,披头士人物资料列表,编目型,23,left,157,CASE-P23-1-原图.jpg,129305,e9a1a4090d8af819fea5203c9a6b549188d882cfc34c8234a76ae6560476627e,4
+CASE-P23-2,02-文字型-列表型信息图形,报纸式文字与蜿蜒视觉路径,编目型,23,right,154,CASE-P23-2-原图.jpg,88683,7a071a2a8f819c179df78f20c087c83f590517ebe4ca5f65559365eb94306683,4
+CASE-P24-1,03-时间轴型信息图形,包豪斯人物建筑时间轴,编年型,24,main,160,CASE-P24-1-原图.jpg,108573,558e6bea56251a10edf7dba555168a247a2068f6f55f66cee8f38b42710a4a7e,14
+CASE-P25-1,04-示意图型信息图形,牛肉奶酪三明治分解装配图,层级型,25,left,168,CASE-P25-1-原图.jpg,114728,7717e18f596ed4f5c549986eca50cb854e95c0a73651f8311f5232f1eb001994,5
+CASE-P25-2,04-示意图型信息图形,拌饭食材分层制作图,层级型,25,right,165,CASE-P25-2-原图.jpg,119978,a0b948364a3d0310741ae6a1a8006cb990538555277565334d0707b890888cd8,5
+CASE-P26-1,05-流程图型信息图形,创意过程蓝图式流程图,编年型,26,left,176,CASE-P26-1-原图.jpg,274479,1bc8187bf4a40728a4d9a17f3ed155dc0bf7dc84af9be40d2e3a19085bd5077d,5
+CASE-P26-2,05-流程图型信息图形,城市化轴测流程路径图,编年型,26,right,173,CASE-P26-2-原图.jpg,34675,8aa9ee6c9305c26e16d20694955fb67af8aa8375b678ba46bb66a0b472c92c3c,4
+CASE-P27-1,06-比较型信息图形,梅西与C罗对比图,编目型,27,left,184,CASE-P27-1-原图.jpg,135705,45a90624622ea6a690880595691cf8c6efa2ad0920309cebfb8bd63fb1dcce0d,4
+CASE-P27-2,06-比较型信息图形,候选人竞选数据比较图,编目型,27,right,181,CASE-P27-2-原图.jpg,134675,fc211e0123d6dbc2ee7fd79d447d9960b2ef572b3bad0335e15b9b4680b3736c,4
+CASE-P28-1,07-地标型信息图形,巴西与美国交通主题地标海报,地理图型,28,left,189,CASE-P28-1-原图.jpg,269242,b51d6437a8a14a7cf084f6b59c5b1f0639c14723bf6efcbc54920345e23983ff,5
+CASE-P28-2,07-地标型信息图形,纽约地铁拓扑线路图,地理图型,28,right,192,CASE-P28-2-原图.jpg,80021,4f56084732bfaca3d38ae84e65579fefef7dd1bc8685c815be933b1970b6c33f,5
+CASE-P29-1,08-图片式信息图形,老龄人口摄影叠加统计图,编目型,29,left,200,CASE-P29-1-原图.jpg,74209,f8e4d83d6fce4b3883993a8735eda397f6c9f20a0615f857f16f35c98e6d984f,4
+CASE-P29-2,08-图片式信息图形,AGLC摄影信息图,编目型,29,right,197,CASE-P29-2-原图.jpg,274779,fae978c78ffc1a3ad0eb08e68a33186344da3e554bc05b0bf5cf7630f96d4c7f,3
+CASE-P30-1,09-层级型信息图形,芬兰熊类地理分布海报,地理图型,30,left,208,CASE-P30-1-原图.jpg,130906,3faea3c50c2c190974462abb6a1a1c00e54e9904c18b152f60262dc952635298,4
+CASE-P30-2,09-层级型信息图形,LOVE主题螺旋叙事图,编年型,30,right,205,CASE-P30-2-原图.jpg,93912,0dff57218fc27913864c8b9062e98828d52e58a8467aa4c0d2c1c9d397ca9bfe,4
+CASE-P31-1,10-单一图表型信息图形,高层建筑轮廓高度对比图,编目型,31,left,213,CASE-P31-1-原图.jpg,78703,948796f4fa2ab33c9f746c72352be88a3b078259b876c3f8631e4a0d6f75866f,4
+CASE-P31-2,10-单一图表型信息图形,世界火箭单图比较,编目型,31,right,216,CASE-P31-2-原图.jpg,106679,76bb7442472aced9fd5a2f6c01f4079778ac80d48e5b6d11e6e16a7b85669fd6,4
+CASE-P32-1,11-视觉化文字型信息图形,快餐品牌可视化文字海报,编目型,32,left,226,CASE-P32-1-原图.jpg,173178,32e5340818c385d260842ac6074f9853d7cb778764423dfd29c5a9e689be07de,4
+CASE-P32-2,11-视觉化文字型信息图形,品牌流程环形关系图,层级型,32,right,223,CASE-P32-2-原图.jpg,131597,c03e83030746ce21994daf90b8a31825cc52028653aebf17ca60e350365851cb,5
+CASE-P33-1,12-解剖结构型信息图形,脊柱解剖结构标注图,层级型,33,left,231,CASE-P33-1-原图.jpg,79624,729dd9fbf4baab0c803f67156007bd933509688ec12feb58124efec452999dde,4
+CASE-P33-2,12-解剖结构型信息图形,AT-AT机械剖析结构图,层级型,33,right,234,CASE-P33-2-原图.jpg,244004,343f55a6d9c0cece529732c6a9fc9b3ac7a296c02cb61a4a05ea74c23a561ff6,4
+CASE-P34-1,13-可视化简历型信息图形,黑白设计师视觉简历,编目型,34,left,239,CASE-P34-1-原图.jpg,257708,6039d26491bdb3d8b2e2ad325c73ca38e1f6e125e597962c89b551f629bed86d,4
+CASE-P34-2,13-可视化简历型信息图形,红色设计师视觉简历,编目型,34,right,242,CASE-P34-2-原图.jpg,143956,720ba6a4b36e8e0f5762e2a9c2b0ab70ea674eb2fad03cbbc6ed7fd411e2607d,4
+CASE-P35-1,14-手稿型信息图形,手绘城市交通路线地图,地理图型,35,left,248,CASE-P35-1-原图.jpg,262501,c194136f33e996572914f14cc4668b7eb8bdf221ded904adb4acae5f576fc50b,4
+CASE-P35-2,14-手稿型信息图形,手绘建筑城市纵剖图,层级型,35,right,247,CASE-P35-2-原图.jpg,197583,0a34013e7c560cc22d072828b98eaaa37d9b2ead77487d8afa74d740b9d2865c,4
+CASE-P36-1,15-编年-编目混合型信息图形,CrowdStrike产业环形指标图,编目型,36,left,256,CASE-P36-1-原图.jpg,159834,3726eda1a82dcbed0e3cc4f5d2988fe1269aa912586e0f17cb6ac0a3fdb53bb1,4
+CASE-P36-2,15-编年-编目混合型信息图形,CrowdStrike跨产业地理流向图,地理图型,36,right,253,CASE-P36-2-原图.jpg,159455,51981c0c821459829ca498312937ba5c7ff587c37a6c2f3ab4a8b2e050a7179e,4
+CASE-P37-1,15-编年-编目混合型信息图形,COSMIC JOURNEYS宇宙轨迹时间叙事,编年型,37,main,261,CASE-P37-1-原图.jpg,656852,421d2f5c85ee84d5b27c3df44cbc76080630688c542b6d0bfeeebeb3f6217b01,5
+CASE-P38-1,16-3D信息图形,HIGH-RISE ZOO楼层生态分解,层级型,38,left,266,CASE-P38-1-原图.jpg,83286,ea20ee2faa7be34e1df862532e23d86238a6ceefb2c555f1c7837b6ddecfdb96,4
+CASE-P38-2,16-3D信息图形,CASINO老虎机楼层分解图,层级型,38,right,267,CASE-P38-2-原图.jpg,41260,821679be63c97c3b79507a7b7345097bc01eb8a2536474f7d78bef64b96b4c2a,4

@@ -1,0 +1,6 @@
+record_id,case_id,source_page,entity,entity_type,sequence,year,metric_name,value,unit,evidence_status,source_xref
+CASE-P32-2-01,CASE-P32-2,32,LOGO,visual_theme_or_component,1,,,,,visual_semantic_identification,223
+CASE-P32-2-02,CASE-P32-2,32,STRATEGY,visual_theme_or_component,2,,,,,visual_semantic_identification,223
+CASE-P32-2-03,CASE-P32-2,32,BUSINESS CARD,visual_theme_or_component,3,,,,,visual_semantic_identification,223
+CASE-P32-2-04,CASE-P32-2,32,WEBSITE,visual_theme_or_component,4,,,,,visual_semantic_identification,223
+CASE-P32-2-05,CASE-P32-2,32,SOCIAL MEDIA,visual_theme_or_component,5,,,,,visual_semantic_identification,223

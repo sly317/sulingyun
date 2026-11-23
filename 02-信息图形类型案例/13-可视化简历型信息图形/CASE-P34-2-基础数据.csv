@@ -1,0 +1,5 @@
+record_id,case_id,source_page,entity,entity_type,sequence,year,metric_name,value,unit,evidence_status,source_xref
+CASE-P34-2-01,CASE-P34-2,34,GRAPHIC DESIGNER,visual_theme_or_component,1,,,,,visual_semantic_identification,242
+CASE-P34-2-02,CASE-P34-2,34,SKILLS,visual_theme_or_component,2,,,,,visual_semantic_identification,242
+CASE-P34-2-03,CASE-P34-2,34,EDUCATION,visual_theme_or_component,3,,,,,visual_semantic_identification,242
+CASE-P34-2-04,CASE-P34-2,34,EXPERIENCE,visual_theme_or_component,4,,,,,visual_semantic_identification,242

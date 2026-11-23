@@ -1,0 +1,5 @@
+record_id,case_id,source_page,entity,entity_type,sequence,year,metric_name,value,unit,evidence_status,source_xref
+CASE-P38-2-01,CASE-P38-2,38,CASINO,visual_theme_or_component,1,,,,,visual_semantic_identification,267
+CASE-P38-2-02,CASE-P38-2,38,SLOT MACHINE,visual_theme_or_component,2,,,,,visual_semantic_identification,267
+CASE-P38-2-03,CASE-P38-2,38,floor,visual_theme_or_component,3,,,,,visual_semantic_identification,267
+CASE-P38-2-04,CASE-P38-2,38,function,visual_theme_or_component,4,,,,,visual_semantic_identification,267

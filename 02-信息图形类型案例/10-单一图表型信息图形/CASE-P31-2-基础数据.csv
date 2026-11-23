@@ -1,0 +1,5 @@
+record_id,case_id,source_page,entity,entity_type,sequence,year,metric_name,value,unit,evidence_status,source_xref
+CASE-P31-2-01,CASE-P31-2,31,THE WORLD’S GREATEST ROCKETS,visual_theme_or_component,1,,,,,visual_semantic_identification,216
+CASE-P31-2-02,CASE-P31-2,31,rocket,visual_theme_or_component,2,,,,,visual_semantic_identification,216
+CASE-P31-2-03,CASE-P31-2,31,model,visual_theme_or_component,3,,,,,visual_semantic_identification,216
+CASE-P31-2-04,CASE-P31-2,31,height,visual_theme_or_component,4,,,,,visual_semantic_identification,216
